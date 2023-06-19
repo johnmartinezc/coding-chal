@@ -1,0 +1,35 @@
+.App{
+  background-color: lightgray;
+}
+
+
+#container{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-bottom: 200px;
+}
+
+#emoticon{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#countTitle{
+  display: flex;
+  justify-content: center;
+  margin-left: 35px;
+}
+
+
+/* .App-header {
+  background-color: lightgray;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+} */
